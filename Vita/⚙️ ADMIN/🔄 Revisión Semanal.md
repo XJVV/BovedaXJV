@@ -8,7 +8,7 @@
 *Antes de revisar tareas, relee estos 4 archivos para recordar quién eres y dónde estás.*
 
 ### 1. 🧬 Identidad y Sistemas
-* **Archivo:** [[🏆 Metas Personales]] (Ahora "Sistemas de Vida")
+* **Archivo:** [[🏆 Sistemas de Vida]] 
 * **Objetivo:** ¿He actuado esta semana según los sistemas aquí definidos? (Ej. ¿Fui el inversor metódico o el impulsivo? ¿Fui el estudiante profundo o el superficial?)
 
 ### 2. 🚦 Estado del Sistema
@@ -39,7 +39,7 @@
 - [ ] (Solo a fin de mes) Actualizar la tabla de Patrimonio en [[💰 Finanzas]].
 
 ## 🎓 3. Planificación Académica (ITLA)
-*Mira tu [[🎓 ITLA Dashboard]].*
+*Mira tu [[🎓 ITLA]].*
 - [ ] ¿Qué tareas vencen esta semana?
 - [ ] ¿Hay exámenes cerca?
 - [ ] Organizar los apuntes de la semana pasada en sus carpetas de materia.

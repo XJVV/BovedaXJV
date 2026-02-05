@@ -5,8 +5,6 @@ moat: Demografía (Salud/Envejecimiento)
 tags:
   - Finanzas/Watchlist/REIT_CTRE
 ---
-> [!QUESTION] ¿Por qué me interesa?
-> Apuesta demográfica pura: La población envejece y necesita cuidados (Skilled Nursing Facilities).
 
 > [!QUESTION] ¿Por qué me interesa?
 > Apuesta demográfica pura: La población envejece y necesita cuidados (Skilled Nursing Facilities). CTRE es dueño de los edificios y cobra alquiler a los operadores. Es una jugada defensiva que aporta estabilidad y dividendos mientras esperas que las otras exploten.

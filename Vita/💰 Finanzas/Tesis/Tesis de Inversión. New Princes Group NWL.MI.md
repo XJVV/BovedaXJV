@@ -4,7 +4,7 @@ sector: Consumo Defensivo
 conviction: 5
 precio_entrada: 6.5
 precio_objetivo: 12
-estado: 🟢 Activa
+estado: 🔴 No realizado
 tags:
   - "#Finanzas/Tesis/NWL"
 ---

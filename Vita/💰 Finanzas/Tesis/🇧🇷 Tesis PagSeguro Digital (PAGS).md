@@ -1,10 +1,10 @@
 ---
 ticker: PAGS
 sector: Fintech
-conviction: 4
+conviction: 7
 precio_entrada: 10
 precio_objetivo: 18.5
-estado: 🟢 Activa
+estado: 🔴 Pendiente
 tags:
   - Finanzas/Tesis/PAGS
 ---

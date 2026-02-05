@@ -4,66 +4,52 @@ sector: Deep Value
 conviction: 5
 precio_entrada: 0
 precio_objetivo: 0
-estado: 🟢 Activa
+estado: 🔴 Pendiente
 tags:
   - "#Finanzas/Tesis/STLA"
 ---
-# 🚗 Tesis: El Suelo de Liquidez (Deep Value)
+# 🚗 Tesis: Stellantis (STLA) - El Suelo de Liquidez
 
-**Activo:** Stellantis N.V. (NYSE: STLA / MIL: STLAM) **Rol en el Portafolio:** Generación de Capital (Fase 1) - Apuesta Asimétrica. **Horizonte Temporal:** 12 - 24 meses (Turnaround Play). **Estado Actual:** _Watchlist_ (Esperando capitulación/recorte de dividendo).
+> [!METADATA]
+> - **Ticker:** $STLA (NYSE)
+> - **Estrategia:** Fase 1 (Deep Value / Turnaround)
+> - **Fecha Análisis:** Febrero 2026
+> - **Evento Clave:** Earnings Call (26 de Febrero, 2026)
+> - **Nivel de Riesgo:** Alto (Binario)
 
-### 1. La Premisa Fundamental (La Dislocación del Precio)
+## 📉 1. La Premisa Fundamental (Dislocación del Precio)
+El mercado valora a Stellantis como una empresa en quiebra inminente, contradiciendo su balance general.
 
-El mercado está valorando a Stellantis como una empresa en quiebra inminente, lo cual contradice sus estados financieros reales.
+* **Valoración de Mercado (Market Cap):** ~€30B.
+* **Liquidez Industrial Disponible:** ~€47B (Efectivo + Líneas de crédito).
+* **La Incongruencia (Negative Enterprise Value):** El mercado vende la empresa completa por *menos* dinero del que tienen disponible. Implícitamente, valoran las marcas (Jeep, RAM, Maserati), las fábricas y el inventario a **CERO**.
+* **Margen de Seguridad:** Incluso si queman €10B arreglando EE.UU., el "suelo" de liquidez protege contra la quiebra total.
 
-- **Valoración de Mercado (Market Cap):** ~30,000 millones de euros.
-    
-- **Liquidez Industrial Disponible:** ~47,000 millones de euros.
-    
-- **La Incongruencia:** El mercado te está vendiendo la empresa completa por _menos_ dinero del que tienen disponible en efectivo y líneas de crédito. Implícitamente, están valorando las operaciones (Jeep, RAM, Fiat, Peugeot, Maserati, fábricas, patentes) a **CERO** o negativo.
-    
-- **Margen de Seguridad:** Incluso si la empresa quema 5 o 10 mil millones arreglando sus problemas operativos, el "suelo" de liquidez protege la inversión de irse a cero.
-    
+## 🔄 2. El Catalizador: "Regreso a la Mediocridad" (Mean Reversion)
+No necesitamos que sean excelentes, solo que dejen de ser un desastre.
 
-### 2. El Catalizador de Recuperación: "El Regreso a la Mediocridad"
+* **Situación:** Márgenes colapsados (~0.9% en H1 2025) por limpieza de inventario.
+* **La Apuesta:** Si la directiva logra limpiar el stock y regresar a márgenes "normales" (no récord, solo mediocres), el Flujo de Caja Libre (FCF) recuperaría niveles de ~€6B.
+* **Potencial:** Valorar ese FCF a un múltiplo conservador (3x-4x) lleva la acción a **€18 - €20** (+100% upside).
 
-No necesitamos que Stellantis sea la mejor empresa del mundo; solo necesitamos que deje de ser un desastre.
+## 🇨🇳 3. El "As" Bajo la Manga: Leapmotor
+Mientras VW quema dinero intentando copiar a China, Stellantis se alió con ellos.
 
-- **Situación Actual:** Márgenes operativos colapsados (~0.9% en H1 2025) por inventarios acumulados en EE.UU. y guerra de precios.
-    
-- **La Apuesta Matemática:** Si la nueva directiva logra simplemente "limpiar" el inventario y regresar a márgenes mediocres (ni siquiera los récords de 2023), el flujo de caja libre volvería a niveles de ~6,000 millones.
-    
-- **Potencial:** Valorar esos flujos a múltiplos normales de la industria automotriz (3x - 4x) llevaría la acción de vuelta a la zona de **18€ - 20€**. Esto representa un potencial de **+100% (x2)** desde los precios actuales.
-    
+* **Estrategia "Asset Light":** Poseen el 20% de Leapmotor y el 51% de sus exportaciones.
+* **La Ventaja:** Acceso inmediato a EVs baratos (costo -30%) para vender en Europa/LatAm sin construir fábricas nuevas. Es un *Hedge*: Si los coches chinos ganan, Stellantis también gana.
 
-### 3. El "As" bajo la manga: La Estrategia Leapmotor (China)
+## 🩸 4. El Gatillo de Entrada (La Trampa del Dividendo)
+* **El Riesgo:** Que intenten mantener el dividendo artificialmente y quemen la caja necesaria para el turnaround.
+* **La Señal de Compra:** El reporte del **26 de Febrero de 2026**.
+    * Es altamente probable que **recorten o eliminen el dividendo** para proteger el balance.
+    * **Reacción Esperada:** Los inversores de dividendos venderán en pánico. El precio caerá fuerte.
+    * **Acción:** Ese desplome es la señal de **COMPRA**. Compramos cuando el mercado capitula y la directiva prioriza la salud de la empresa sobre el dividendo.
 
-Mientras Volkswagen y otros gastan miles de millones intentando desarrollar software y baterías para competir con China, Stellantis ha tomado un atajo pragmático ("Asset Light").
+## 🚪 5. Plan de Salida (Exit Strategy)
+Esta acción **NO** es para "casarse". Es un *trade* de ciclo largo.
 
-- **La Alianza:** Adquirieron el 20% de la startup china **Leapmotor** y controlan el 51% de la exportación internacional.
-    
-- **La Ventaja:** Tienen acceso inmediato a tecnología de vehículos eléctricos baratos (costos ~30% menores) para venderlos en Europa y Sudamérica bajo su red, sin tener que construir fábricas nuevas desde cero. Es un _hedge_ (cobertura): si los chinos ganan, Stellantis gana.
-    
-
-### 4. Riesgos y El "Evento de Entrada" (El Dividendo)
-
-- **El Riesgo:** La "Trampa de Valor". Que la directiva queme la caja más rápido de lo esperado o que la marca se deteriore irreversiblemente en EE.UU.
-    
-- **La Trampa del Dividendo:** El _yield_ actual (~6.5% o más) es insostenible porque se paga con ahorros, no con flujo de caja operativo.
-    
-- **Tu Estrategia de Entrada (El Gatillo):** Es altamente probable que recorten el dividendo en 2026 para preservar la caja.
-    
-    - Cuando se anuncie el recorte, los inversores de rentas venderán en pánico.
-        
-    - Ese desplome adicional es el **punto de entrada óptimo** para tu estrategia de capital. Compras cuando "haya sangre en las calles".
-        
-
-### 5. Plan de Salida (Exit Strategy)
-
-Esta inversión **NO** es para mantenerla 10 años en la parte de ETFs.
-
-- **Objetivo:** Vender la posición completa una vez que el mercado reconozca la estabilidad y el precio recupere el valor en libros o un múltiplo decente (aprox. 18€-20€).
-    
-- **Destino de Fondos:** El capital original + el 100% de ganancia se transfiere inmediatamente a **DGRO** y **SCHY** para consolidar la riqueza generada.
+* **Objetivo de Venta:** Zona de **€18 - €20** (o cuando recupere Valor en Libros).
+* **Ejecución:** Vender el 100% de la posición + ganancias.
+* **Destino:** Transferir capital inmediatamente a **DGRO** y **SCHY** (Fase 2) para asegurar la riqueza en activos de calidad y rentas perpetuas.
 
 [[Tesis]]

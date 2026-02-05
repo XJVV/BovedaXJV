@@ -1,11 +1,9 @@
 ---
 tags:
   - ITLA/Cuatrimestres/2026-C1/CAD-102/Tarea
-fecha_entrega: 2026-03-15
-estado: 🔴 Pendiente
+fecha_entrega: 2026-01-27
+estado: 🔴 No realizado
 ---
-# Proyecto Final: Modelado de Pieza Mecánica
-
 ## 📋 Requisitos
 Hacer un Video en Teams haciendo los ejercicios de las paginas 126,128,134 y 141 del [[Manual de SolidWorks.pdf]]
 El vídeo debe de cumplir con los siguiente:
@@ -16,7 +14,7 @@ El vídeo debe de cumplir con los siguiente:
 
 3-Narrar el vídeo, recuerda encender el micrófono.
 ## 🚀 Desarrollo
-* [ ] Buscar referencias.
-* [ ] Empezar boceto.
+* [x] Buscar referencias.
+* [x] Empezar boceto.
 
 [[Tareas CAD-102]] 

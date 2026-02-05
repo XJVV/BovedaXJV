@@ -1,1 +1,7 @@
-{}
+{
+  "enabledCssSnippets": [
+    "graphview-image",
+    "fondo-grafico-completo"
+  ],
+  "cssTheme": "Catppuccin"
+}

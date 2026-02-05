@@ -1,0 +1,107 @@
+/*
+════════════════════════════════════════════════════════════════
+    Graph View Custom Background
+    Made with 💛 by Karlos - Obsidian Tutorials
+    YouTube: https://youtube.com/@timegardenobsidian
+════════════════════════════════════════════════════════════════
+*/
+
+/* @settings
+
+name: Graph View Background
+id: graph-background-image
+settings:
+    -
+        id: graph-bg-credits
+        title: 💛 Created by Karlos - Obsidian Tutorials
+        description: "**Support the creator!** Subscribe on YouTube: [youtube.com/@timegardenobsidian](https://youtube.com/@timegardenobsidian)"
+        type: info-text
+        markdown: true
+    -
+        id: graph-bg-info
+        title: How to Change the Background Image
+        description: "To change the background image, edit the `--graph-bg-image-url` variable below in this CSS file. Replace the URL with your own image path."
+        type: info-text
+        markdown: true
+    -
+        id: graph-bg-position
+        title: Background Position
+        description: Where to position the image
+        type: variable-select
+        default: center
+        options:
+            - label: Center
+              value: center
+            - label: Top
+              value: bottom
+            - label: Bottom
+              value: top
+            - label: Left
+              value: right
+            - label: Right
+              value: left
+    -
+        id: graph-bg-size
+        title: Background Size
+        description: How the image should fit
+        type: variable-select
+        default: cover
+        options:
+            - label: Cover (fills entire area)
+              value: cover
+            - label: Contain (fit within area)
+              value: contain
+    -
+        id: graph-bg-opacity
+        title: Background Opacity
+        description: Transparency of the background image (0-1)
+        type: variable-number-slider
+        default: 0.2
+        min: 0
+        max: 1
+        step: 0.05
+    -
+        id: graph-bg-brightness
+        title: Background Brightness
+        description: Brightness adjustment (0-2)
+        type: variable-number-slider
+        default: 0.7
+        min: 0
+        max: 2
+        step: 0.1
+    -
+        id: graph-bg-blur
+        title: Background Blur
+        description: Blur amount in pixels
+        type: variable-number-slider
+        default: 1
+        min: 0
+        max: 20
+        step: 1
+        format: px
+
+*/
+
+:root {
+    --graph-bg-image-url: url("https://r4.wallpaperflare.com/wallpaper/186/71/794/oil-painting-horror-depressing-sadness-wallpaper-79f0987dc13a8dbb1617f8ef10e196fd.jpg");
+}
+
+.workspace-leaf-content[data-type="graph"] .view-content {
+    z-index: 0;
+}
+
+.workspace-leaf-content[data-type="graph"] .view-content::after {
+    content: "";
+    position: absolute;
+    background-image: var(--graph-bg-image-url);
+    background-repeat: no-repeat;
+    background-size: var(--graph-bg-size);
+    background-position: var(--graph-bg-position);
+    opacity: var(--graph-bg-opacity);
+    filter: brightness(var(--graph-bg-brightness)) blur(var(--graph-bg-blur));
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+}

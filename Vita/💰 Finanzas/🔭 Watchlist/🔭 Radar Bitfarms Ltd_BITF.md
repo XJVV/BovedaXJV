@@ -5,11 +5,7 @@ moat: Líder Refrigeración Líquida (Picos y Palas)
 tags:
   - Finanzas/Watchlist/BITF
 ---
-# 🔭 Radar: Vertiv Holdings (VRT)
-
-> [!QUESTION] ¿Por qué me interesa?
-> Es la jugada de "Picos y Palas" de la Inteligencia Artificial. No sé quién ganará la guerra de la IA (Google, Microsoft o Meta), pero todos necesitan **Refrigeración Líquida** y **Gestión de Energía** para sus Data Centers.
-*(Nota: Estrategia especial "Capital Remanente/Restos")*
+# 🔭 Radar: Bitfarms Ltd (BITF)
 
 > [!QUESTION] ¿Por qué me interesa?
 > **Exclusivamente porque tengo capital remanente atrapado en Hapi ($6 USD).** No es una inversión central. Es una opción de lotería: si Bitcoin sube, esto se multiplica y me permite retirar ese saldo con dignidad.

@@ -4,14 +4,6 @@
 > "No compras una acción, compras una parte de un negocio. Haz la tarea."
 
 ## 📚 Biblioteca de Tesis Activas
-*Análisis profundos almacenados en esta carpeta.*
-
-# 🧠 Centro de Investigación (Tesis de Inversión)
-
-> [!QUOTE] Filosofía
-> "No compras una acción, compras una parte de un negocio. Haz la tarea."
-
-## 📚 Biblioteca de Tesis Activas
 
 ```dataview
 TABLE without id

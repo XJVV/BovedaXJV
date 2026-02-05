@@ -10,15 +10,17 @@ estado: En curso
 
 ## 📅 Información
 * **Profesor:** Jose Alejandro Martinez Bonetti
-* **Horario:** Horario:: Viernes de 18:00-22:00
-* **Aula:** Aula:: Electrónica 1
+* **Horario:** Viernes de 18:00-22:00
+* **Aula:** Electrónica 1
 
 ## 🎯 Objetivos
 * Leyes de Kirchhoff, análisis de mallas/nodos y teoremas de redes.
 
 ## 📝 Notas de Clase
-* [[Circuitos1 - Clase 01]]
+* [[TME - Clase 1]]
+* 
 
 ## 🧠 Tareas
-- [ ]
--[[2026-C1]]
+- [[Tarea 1 TME-101]]
+
+[[2026-C1]]

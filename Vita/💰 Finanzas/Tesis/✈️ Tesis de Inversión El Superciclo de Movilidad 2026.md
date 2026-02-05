@@ -4,7 +4,7 @@ sector: Automotriz / Aeroespacial
 conviction: 3
 precio_entrada: 0
 precio_objetivo: 0
-estado: 🟡 En Desarrollo
+estado: 🔴 Pendiente
 tags:
   - "#Finanzas/Tesis/UAL"
   - Finanzas/Tesis/CPA

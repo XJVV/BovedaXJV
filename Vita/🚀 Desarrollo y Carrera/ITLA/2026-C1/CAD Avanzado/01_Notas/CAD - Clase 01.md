@@ -1,6 +1,6 @@
 ---
 tags:
-  - ITLA/CUatrimestres/2026-C1/CAD-102/Notas
+  - ITLA/Cuatrimestres/2026-C1/CAD-102/Notas
 fecha: 2026-01-20
 tema: Introducción a la Interfaz
 ---

@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "2244c47958d03f73",
+        "id": "37730114755537a0",
         "type": "tabs",
         "children": [
           {
-            "id": "a7717ebbe65c3973",
+            "id": "f8969f24edb20f58",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vita/Vida Personal/Hábitos/Habit tracker.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Habit tracker"
-            }
-          },
-          {
-            "id": "4b8b428fb1e4152c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vita/🚀 Desarrollo y Carrera/ITLA/🎓 ITLA.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "🎓 ITLA"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,7 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 393.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,35 +190,38 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "4b8b428fb1e4152c",
+  "active": "f8969f24edb20f58",
   "lastOpenFiles": [
+    "Vita/🚀 Desarrollo y Carrera/𖣂 Skill Tree/01_Hard_Engineering/Electrónica/SmartGarden/venv/lib/python3.13/site-packages/httpx-0.28.1.dist-info/licenses/LICENSE.md",
+    "Vita/⚙️ ADMIN/🚨 Protocolo de Emergencia.md",
+    "Vita/Vida Personal/Hábitos/Dias/2026-01-05.md",
+    "Vita/🚀 Desarrollo y Carrera/🚀 Desarrollo y Carrera.md",
+    "Vita/🚀 Desarrollo y Carrera/Trabajo/Trabajo.md",
+    "Vita/🚀 Desarrollo y Carrera/ITLA/2026-C1/Inglés Nivel 10-12/Inglés Nivel 10-12.md",
+    "Ingles - Clase 01.md",
+    "Vita/⚙️ ADMIN/🔄 Revisión Semanal.md",
     "Vita/🚀 Desarrollo y Carrera/ITLA/2026-C1/2026-C1.md",
-    "Vita/🚀 Desarrollo y Carrera/ITLA/🎓 ITLA.md",
-    "Vita/🚀 Desarrollo y Carrera/ITLA/2026-C1/CAD Avanzado/01_Notas/CAD - Clase 01.md",
-    "Vita/💰 Finanzas/🔭 Watchlist/🔭 Radar Vertiv Holdings_VRT.md",
-    "Vita/💰 Finanzas/🔭 Watchlist/🔭 Watchlist.md",
-    "Vita/Vida Personal/Hábitos/Habit tracker.md",
-    "Vita/💰 Finanzas/🔭 Watchlist/🔭 Radar Visa_V.md",
-    "Vita/💰 Finanzas/🔭 Watchlist/Plantilla Watchlist.md",
+    "🚨 Protocolo de Emergencia.md",
+    "Vita/🚀 Desarrollo y Carrera/𖣂 Skill Tree/01_Hard_Engineering/Electrónica/SmartGarden/🌿 SmartGarden.md",
+    "Vita/🚀 Desarrollo y Carrera/𖣂 Skill Tree/00_Core_Management/🏆 Sistemas de Vida.md",
+    "🏆 Metas Personales.md",
+    "Vita/💰 Finanzas/💰 Finanzas.md",
     "Vita/💰 Finanzas/🔭 Watchlist/🔭Radar Broadcom_AVGO.md",
+    "Vita/💰 Finanzas/🔭 Watchlist/🔭 Radar Visa_V.md",
+    "Vita/💰 Finanzas/🔭 Watchlist/🔭 Radar Vertiv Holdings_VRT.md",
     "Vita/💰 Finanzas/🔭 Watchlist/🔭 Radar CareTrust REIT_CTRE.md",
     "Vita/💰 Finanzas/🔭 Watchlist/🔭 Radar Bitfarms Ltd_BITF.md",
-    "Vita/💰 Finanzas/Tesis/🚗 Tesis de Inversión El Suelo de Liquidez (Deep Value).md",
-    "Vita/💰 Finanzas/Tesis/✈️ Tesis de Inversión El Superciclo de Movilidad 2026.md",
-    "Vita/💰 Finanzas/Tesis/🇧🇷 Tesis PagSeguro Digital (PAGS).md",
-    "Vita/💰 Finanzas/Tesis/Tesis de Inversión. New Princes Group NWL.MI.md",
     "Vita/💰 Finanzas/Tesis/Tesis.md",
-    "Vita/🚀 Desarrollo y Carrera/ITLA/2026-C1/CAD Avanzado/CAD Avanzado.md",
-    "Vita/🚀 Desarrollo y Carrera/ITLA/01_Cuatrimestre_Actual/01_Cuatrimestre_Actual.md",
-    "Vita/🚀 Desarrollo y Carrera/𖣂 Skill Tree/00_Core_Management/Productividad y Hábitos/Productividad y Hábitos.md",
-    "Vita/🚀 Desarrollo y Carrera/𖣂 Skill Tree/00_Core_Management/🏆 Sistemas de Vida.md",
+    "Vita/💰 Finanzas/Tesis/🇧🇷 Tesis PagSeguro Digital (PAGS).md",
+    "Vita/Vita.md",
+    "Sin título.md",
+    "Vita/💰 Finanzas/🔭 Watchlist/Plantilla Watchlist.md",
+    "Vita/💰 Finanzas/Portafolios/Portafolio ETF/Portafolio ETF.md",
+    "Vita/💰 Finanzas/Tesis/🚗 Tesis de Inversión El Suelo de Liquidez (Deep Value).md",
+    "Vita/🚀 Desarrollo y Carrera/ITLA/2026-C1/Física Eléctrica/03_Recursos/Fisica Universitaria Con Fisica Moderna. Volumen 2.pdf",
+    "Vita/🚀 Desarrollo y Carrera/ITLA/2026-C1/Circuitos Eléctricos I/03_Recursos/Análisis de circuitos en ingeniería.pdf",
+    "Vita/🚀 Desarrollo y Carrera/ITLA/2026-C1/Cálculo Integral/03_Recursos/Calculo completo vol 1 9na edicion ron larson.pdf",
     "Vita/Vida Personal/00_HOME.canvas",
-    "Vita/Vida Personal/Hábitos/Plantillas/Plantilla Diaria.md",
-    "Productividad y Hábitos.md",
-    "Vita/Vida Personal/Vida Personal.md",
-    "Vita/Vida Personal/Hábitos/Dias/2025-12-17.md",
-    "Vita/Vida Personal/Hábitos/Dias/2025-12-18.md",
-    "Vita/Vida Personal/Hábitos/Dias/2025-12-19.md",
     "Vita/Vida Personal/Hábitos/Dashboard Hábitos.canvas",
     "Pasted image 20260112235048.png",
     "Pasted image 20260112234546.png",
@@ -247,9 +231,6 @@
     "Vita/🚀 Desarrollo y Carrera/ITLA/2026-C1/Probabilidad y Estadística/03_Recursos",
     "Vita/🚀 Desarrollo y Carrera/ITLA/2026-C1/Laboratorio Circuitos Eléctricos I/03_Recursos",
     "Vita/🚀 Desarrollo y Carrera/ITLA/2026-C1/Laboratorio Física Eléctrica/03_Recursos",
-    "Vita/🚀 Desarrollo y Carrera/ITLA/2026-C1/Inglés Nivel 10-12/03_Recursos",
-    "Vita/🚀 Desarrollo y Carrera/ITLA/2026-C1/Física Eléctrica/03_Recursos",
-    "Vita/🚀 Desarrollo y Carrera/ITLA/2026-C1/Educación Constitucional/03_Recursos",
-    "Vita/🚀 Desarrollo y Carrera/ITLA/2026-C1/Circuitos Eléctricos I/03_Recursos"
+    "Vita/🚀 Desarrollo y Carrera/ITLA/2026-C1/Inglés Nivel 10-12/03_Recursos"
   ]
 }

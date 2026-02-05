@@ -17,7 +17,7 @@ estado: En curso
 * Perfeccionamiento del idioma y vocabulario técnico avanzado.
 
 ## 📝 Notas de Clase
-* [[Ingles - Clase 01]]
+* 
 
 ## 🧠 Tareas
 - [ ]
