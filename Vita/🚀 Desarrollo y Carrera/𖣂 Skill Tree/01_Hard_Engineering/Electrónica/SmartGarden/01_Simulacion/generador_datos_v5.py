@@ -74,7 +74,7 @@ def agente_explorador(obs, target_temp, target_hum):
     accion = {'luz': 0, 'ventilador': 0, 'riego': 0, 'deep_sleep': 0}
 
     # Prioridad 1 — emergencia energética
-    if obs["bateria_pct"] < 20:
+    if obs["bateria_pct"] < 30:   # 20 → 30: actúa antes de llegar a zona crítica
         accion['deep_sleep'] = 1
         return accion
 

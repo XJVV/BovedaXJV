@@ -46,13 +46,13 @@ class Greenhouse:
 
         # --- HARDWARE ---
         self.HARDWARE = {
-            "bateria_capacidad_wh": 50.0,
-            "panel_solar_max_w":    20.0,
-            "consumo_led_w":        10.0,
-            "consumo_pump_w":        5.0,
-            "consumo_fan_w":         2.0,
-            "consumo_esp32_active_w": 0.6,
-            "consumo_esp32_sleep_w":  0.01
+            "bateria_capacidad_wh":   50.0,
+            "panel_solar_max_w":      30.0,   # 20W → 30W: sostiene ventilador + ESP32 activo
+            "consumo_led_w":          10.0,
+            "consumo_pump_w":          5.0,
+            "consumo_fan_w":           2.0,
+            "consumo_esp32_active_w":  0.6,
+            "consumo_esp32_sleep_w":   0.01
         }
 
         self.state = {
@@ -160,7 +160,11 @@ class Greenhouse:
             self.state["modo_cpu"] = "ACTIVE"
 
         # 2. Física térmica
-        temp_ext = 28.0 if (9 < self.state["hora_dia"] < 16) else 18.0
+        # temp_ext escala con el objetivo — evita que escenarios fríos tengan
+        # siempre presión térmica de 28°C y escenarios calientes no puedan enfriar
+        temp_ext_dia   = self.TARGET_TEMP + 4.0
+        temp_ext_noche = self.TARGET_TEMP - 4.0
+        temp_ext = temp_ext_dia if (9 < self.state["hora_dia"] < 16) else temp_ext_noche
         delta_temp = 0
         if accion["luz"]:        delta_temp += self.PHYSICS["calor_led_gain"] * dt
         if accion["ventilador"]: delta_temp -= self.PHYSICS["frio_fan_loss"] * dt

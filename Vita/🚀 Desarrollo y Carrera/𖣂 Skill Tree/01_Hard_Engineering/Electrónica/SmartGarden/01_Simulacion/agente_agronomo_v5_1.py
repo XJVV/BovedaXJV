@@ -26,7 +26,7 @@ FALLBACK_DATA = {
 # ---------------------------------------------------------
 class CropResearcher:
     def __init__(self, config_path=None):
-        print("🤖 Agente Agrónomo v5.1 (+ humedad + config)")
+        print("🤖 Agente Agrónomo v5.2 (JSON plano para ESP32)")
         self.ddgs = DDGS()
         self.config = self._cargar_config(config_path)
 
@@ -170,31 +170,27 @@ class CropResearcher:
         fb_hum  = (fb["hum"][0]  + fb["hum"][1])  / 2
 
         if not hallazgos_temp:
-            print("   ⚠️  Sin datos de temperatura. Usando fallback.")
+            print("   ⚠️  Sin datos de temperatura — usando fallback.")
         if not hallazgos_hum:
-            print("   ⚠️  Sin datos de humedad. Usando fallback.")
+            print("   ⚠️  Sin datos de humedad — usando fallback.")
 
         temp_final, margen_temp = self._consenso(hallazgos_temp, fb_temp)
         hum_final,  margen_hum  = self._consenso(hallazgos_hum,  fb_hum, fallback_margen=10.0)
 
-        print(f"   ✅ Temp: {temp_final}°C ± {margen_temp} | Hum suelo: {hum_final}% ± {margen_hum}")
+        print(f"   ✅ Temp: {temp_final}°C | Hum suelo: {hum_final}%")
 
+        # JSON plano — el ESP32 lo parsea directo sin anidar
+        fuentes_unicas = list(set(h["fuente"] for h in hallazgos_temp + hallazgos_hum))
         return {
-            "id_cultivo": cultivo,
-            "origen_datos": "Web Scraping (Extensión Universitaria)",
-            "fuentes": list(set(
-                h["fuente"] for h in hallazgos_temp + hallazgos_hum
-            )) or ["Fallback Científico"],
-            "parametros_optimos": {
-                "temperatura_ideal":   temp_final,
-                "margen_tolerancia":   margen_temp,
-                "humedad_suelo_ideal": hum_final,      # NUEVO
-                "margen_humedad":      margen_hum       # NUEVO
-            }
+            "id_cultivo":          cultivo,
+            "temperatura_ideal":   temp_final,
+            "humedad_suelo_ideal": hum_final,
+            "origen":              " + ".join(fuentes_unicas) if fuentes_unicas else "Fallback científico",
+            "confianza":           "alta" if fuentes_unicas else "media"
         }
 
     def generar_archivo_maestro(self, lista):
-        data = {"version": "5.1", "cultivos": []}
+        data = {"version": "5.2", "cultivos": []}
         for c in lista:
             data["cultivos"].append(self.investigar_cultivo(c))
 

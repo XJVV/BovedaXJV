@@ -120,7 +120,7 @@ bool cargarCultivo(const char* nombre) {
     }
 
     // ArduinoJson — añade a platformio.ini: lib_deps = bblanchon/ArduinoJson
-    StaticJsonDocument<2048> doc;
+    StaticJsonDocument<1024> doc;
     DeserializationError err = deserializeJson(doc, f);
     f.close();
 
@@ -132,8 +132,8 @@ bool cargarCultivo(const char* nombre) {
     JsonArray cultivos = doc["cultivos"];
     for (JsonObject c : cultivos) {
         if (strcmp(c["id_cultivo"], nombre) == 0) {
-            TARGET_TEMP = c["parametros_optimos"]["temperatura_ideal"].as<float>();
-            TARGET_HUM  = c["parametros_optimos"]["humedad_suelo_ideal"].as<float>();
+            TARGET_TEMP = c["temperatura_ideal"].as<float>();
+            TARGET_HUM  = c["humedad_suelo_ideal"].as<float>();
             Serial.printf("✅ Cultivo cargado: %s — %.1f°C / %.0f%%\n",
                           nombre, TARGET_TEMP, TARGET_HUM);
             return true;
@@ -254,7 +254,7 @@ void loop() {
     bool cmd_sleep = p_sleep > TH_SLEEP;
 
     // Seguridad de riego — dinámico según el cultivo
-    if (bateria < 20 || hum_suelo > (TARGET_HUM + 15)) {
+    if (bateria < 30 || hum_suelo > (TARGET_HUM + 15)) {   // 20 → 30: consistente con entrenamiento
         cmd_riego = false;
     }
 
