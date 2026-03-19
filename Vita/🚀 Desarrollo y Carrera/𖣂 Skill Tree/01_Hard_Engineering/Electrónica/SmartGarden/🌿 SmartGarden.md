@@ -55,6 +55,28 @@ Para mantener el orden entre el código, los datos y la documentación, este pro
 
 ---
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 📝 Bitácora Rápida
 *Espacio para notas sueltas del día a día antes de procesarlas.*
 

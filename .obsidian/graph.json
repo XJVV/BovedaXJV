@@ -3,22 +3,22 @@
   "search": "",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"Vita/🚀 Desarrollo y Carrera\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 2786010
-      }
-    },
-    {
-      "query": "path:\"Vita/🚀 Desarrollo y Carrera/𖣂 Skill Tree\"  ",
+      "query": "path:\"Vita/🚀 Desarrollo y Carrera/𖣂 Skill Tree\"",
       "color": {
         "a": 1,
         "rgb": 10907386
+      }
+    },
+    {
+      "query": "path:\"Vita/🚀 Desarrollo y Carrera/ITLA\"",
+      "color": {
+        "a": 1,
+        "rgb": 2786010
       }
     },
     {
@@ -36,24 +36,17 @@
       }
     },
     {
-      "query": "path:\"Vita/Vida Personal\"  ",
+      "query": "path:\"Vita/Vida Personal\"",
       "color": {
         "a": 1,
         "rgb": 16744118
       }
     },
     {
-      "query": "path:\"Vita/⚙️ ADMIN\"  ",
+      "query": "path:\"Vita/🚀 Desarrollo y Carrera\"",
       "color": {
         "a": 1,
-        "rgb": 16752412
-      }
-    },
-    {
-      "query": "",
-      "color": {
-        "a": 1,
-        "rgb": 6053078
+        "rgb": 3391999
       }
     }
   ],
@@ -67,6 +60,6 @@
   "repelStrength": 13,
   "linkStrength": 1,
   "linkDistance": 100,
-  "scale": 0.14814814814814814,
-  "close": false
+  "scale": 0.06905205117676094,
+  "close": true
 }

@@ -3,5 +3,7 @@
     "graphview-image",
     "fondo-grafico-completo"
   ],
-  "cssTheme": "Catppuccin"
+  "cssTheme": "Catppuccin",
+  "baseFontSizeAction": true,
+  "baseFontSize": 16
 }

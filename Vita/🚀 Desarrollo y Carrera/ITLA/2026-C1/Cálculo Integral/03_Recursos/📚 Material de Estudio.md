@@ -1,3 +1,3 @@
-- [[Calculo completo vol 1 9na edicion ron larson.pdf]]
+- [[Cálculo Tomo I by Ron Larson Bruce Edwards.pdf]]
 - 
 [[Cálculo Integral]]

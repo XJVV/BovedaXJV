@@ -2,9 +2,9 @@
 ticker: STRATEGY
 sector: Deep Value
 conviction: 5
-precio_entrada: 0
+precio_entrada: 7.29
 precio_objetivo: 0
-estado: 🔴 Pendiente
+estado: 🟢 Activa
 tags:
   - "#Finanzas/Tesis/STLA"
 ---
@@ -15,14 +15,14 @@ tags:
 > - **Estrategia:** Fase 1 (Deep Value / Turnaround)
 > - **Fecha Análisis:** Febrero 2026
 > - **Evento Clave:** Earnings Call (26 de Febrero, 2026)
-> - **Nivel de Riesgo:** Alto (Binario)
+> - **Nivel de Riesgo:** Medio
 
 ## 📉 1. La Premisa Fundamental (Dislocación del Precio)
 El mercado valora a Stellantis como una empresa en quiebra inminente, contradiciendo su balance general.
 
 * **Valoración de Mercado (Market Cap):** ~€30B.
 * **Liquidez Industrial Disponible:** ~€47B (Efectivo + Líneas de crédito).
-* **La Incongruencia (Negative Enterprise Value):** El mercado vende la empresa completa por *menos* dinero del que tienen disponible. Implícitamente, valoran las marcas (Jeep, RAM, Maserati), las fábricas y el inventario a **CERO**.
+* **La Incongruencia (Negative Enterprise Value):** El mercado vende la empresa completa por *menos* dinero del que tienen disponible. Implícitamente, valoran las marcas (Jeep, RAM, Maserati, etc.), las fábricas y el inventario a **CERO**.
 * **Margen de Seguridad:** Incluso si queman €10B arreglando EE.UU., el "suelo" de liquidez protege contra la quiebra total.
 
 ## 🔄 2. El Catalizador: "Regreso a la Mediocridad" (Mean Reversion)
@@ -50,6 +50,6 @@ Esta acción **NO** es para "casarse". Es un *trade* de ciclo largo.
 
 * **Objetivo de Venta:** Zona de **€18 - €20** (o cuando recupere Valor en Libros).
 * **Ejecución:** Vender el 100% de la posición + ganancias.
-* **Destino:** Transferir capital inmediatamente a **DGRO** y **SCHY** (Fase 2) para asegurar la riqueza en activos de calidad y rentas perpetuas.
+* **Destino:** Buscar nueva inversión o transferir capital inmediatamente a **DGRO** y **SCHY** (Fase 2) para asegurar la riqueza en activos de calidad y rentas perpetuas.
 
 [[Tesis]]

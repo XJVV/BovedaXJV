@@ -6,10 +6,10 @@
 
 ## 🟢 Posiciones Abiertas
 
-| Ticker     | Empresa     | % Peso | Precio Entrada | Rendimiento | Tesis de Inversión                               |
-| :--------- | :---------- | :----- | :------------- | :---------- | :----------------------------------------------- |
-| **NWL.MI** | New Princes | 15%    | €12.50         | `+0.00%`    | [[Tesis de Inversión. New Princes Group NWL.MI]] |
-| **TICKER** | Empresa X   | 5%     | $00.00         | `+0.00%`    |                                                  |
+| Ticker     | Empresa    | % Peso | Precio Entrada | Rendimiento | Tesis de Inversión                                          |
+| :--------- | :--------- | :----- | :------------- | :---------- | :---------------------------------------------------------- |
+| **STLA**   | Stellantis | 15%    | €7.29          | `+100.00%`  | [[🚗 Tesis de Inversión El Suelo de Liquidez (Deep Value)]] |
+| **TICKER** | Empresa X  | 5%     | $00.00         | `+0.00%`    |                                                             |
 
 ## 🔴 Historial de Ventas (Cerradas)
 * *Aquí moverás las filas cuando vendas una acción.*
