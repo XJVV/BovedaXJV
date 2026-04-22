@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a897d5f76496505d",
+        "id": "dd481d67683c07e2",
         "type": "tabs",
         "children": [
           {
-            "id": "d95f7a5d86065027",
+            "id": "b67e91f12f79d37b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vita/🚀 Desarrollo y Carrera/𖣂 Skill Tree/01_Hard_Engineering/Electrónica/SmartGarden/🧠 Entrenamiento Cerebro v31.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "🧠 Entrenamiento Cerebro v31"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
         ]
@@ -41,7 +37,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de archivos"
@@ -87,7 +83,7 @@
       {
         "id": "77f9c65048fad4be",
         "type": "tabs",
-        "dimension": 30.08595988538682,
+        "dimension": 30.343511450381676,
         "children": [
           {
             "id": "eafea2bbc0a7aa95",
@@ -163,14 +159,24 @@
               "icon": "lucide-list",
               "title": "Esquema"
             }
+          },
+          {
+            "id": "13a0e3c89aeb9921",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Cola de notas a revisar"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       },
       {
         "id": "9a9769701d0db299",
         "type": "tabs",
-        "dimension": 35.05253104106972,
+        "dimension": 33.87404580152672,
         "children": [
           {
             "id": "e1b17ccf41b9b604",
@@ -185,12 +191,12 @@
         ]
       },
       {
-        "id": "72761de2b14bdd8b",
+        "id": "a0b41e2943f3ae95",
         "type": "tabs",
-        "dimension": 34.86150907354346,
+        "dimension": 35.782442748091604,
         "children": [
           {
-            "id": "3fe62791e1fbfb76",
+            "id": "acf5d1bd09fd5e00",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -203,8 +209,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 462,
-    "collapsed": true
+    "width": 462
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,48 +222,49 @@
       "bases:Crear nueva base": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-spaced-repetition:Revisar Tarjetas": false
     }
   },
-  "active": "d95f7a5d86065027",
+  "active": "b67e91f12f79d37b",
   "lastOpenFiles": [
-    "Vita/🚀 Desarrollo y Carrera/𖣂 Skill Tree/01_Hard_Engineering/Electrónica/SmartGarden/01_Simulacion/agente_agronomo_v5_1.py",
-    "Vita/🚀 Desarrollo y Carrera/𖣂 Skill Tree/01_Hard_Engineering/Electrónica/SmartGarden/03_Firmware/src/main_v4.cpp",
-    "Vita/🚀 Desarrollo y Carrera/𖣂 Skill Tree/01_Hard_Engineering/Electrónica/SmartGarden/01_Simulacion/__pycache__/sim_env_v2_4.cpython-313.pyc",
-    "Vita/🚀 Desarrollo y Carrera/𖣂 Skill Tree/01_Hard_Engineering/Electrónica/SmartGarden/Old/main_v4.cpp",
-    "Vita/🚀 Desarrollo y Carrera/𖣂 Skill Tree/01_Hard_Engineering/Electrónica/SmartGarden/Old/agente_agronomo_v5_1.py",
-    "Vita/🚀 Desarrollo y Carrera/𖣂 Skill Tree/01_Hard_Engineering/Electrónica/SmartGarden/Old/agente_agronomo.py",
-    "Vita/🚀 Desarrollo y Carrera/𖣂 Skill Tree/01_Hard_Engineering/Electrónica/SmartGarden/Old/main_v3_snippet.cpp",
-    "Vita/🚀 Desarrollo y Carrera/𖣂 Skill Tree/01_Hard_Engineering/Electrónica/SmartGarden/Old/generador_datos_v4.py",
-    "Vita/🚀 Desarrollo y Carrera/𖣂 Skill Tree/01_Hard_Engineering/Electrónica/SmartGarden/01_Simulacion/generador_datos_v5.py",
-    "Vita/🚀 Desarrollo y Carrera/𖣂 Skill Tree/01_Hard_Engineering/Electrónica/🤖 Proyecto SmartBot v1 Evasor de Obstáculos.md",
+    "Vita/🚀 Desarrollo y Carrera/𖣂 Skill Tree/01_Hard_Engineering/Electrónica/SmartGarden/venv/lib/python3.13/site-packages/pip-25.3.dist-info/licenses/src/pip/_vendor/idna/LICENSE.md",
+    "Vita/🚀 Desarrollo y Carrera/𖣂 Skill Tree/01_Hard_Engineering/Electrónica/SmartGarden/venv/lib/python3.13/site-packages/ddgs-9.10.0.dist-info/licenses/LICENSE.md",
+    "Vita/🚀 Desarrollo y Carrera/𖣂 Skill Tree/01_Hard_Engineering/Electrónica/SmartGarden/venv/lib/python3.13/site-packages/duckduckgo_search-8.1.1.dist-info/licenses/LICENSE.md",
     "Vita/🚀 Desarrollo y Carrera/𖣂 Skill Tree/01_Hard_Engineering/Electrónica/SmartGarden/🧠 Entrenamiento Cerebro v31.md",
-    "Vita/💰 Finanzas/Tesis/🇧🇷 Tesis PagSeguro Digital (PAGS).md",
-    "Vita/💰 Finanzas/Tesis/✈️ Tesis de Inversión El Superciclo de Movilidad 2026.md",
-    "Vita/💰 Finanzas/Tesis/🚗 Tesis de Inversión El Suelo de Liquidez (Deep Value).md",
-    "Vita/💰 Finanzas/Tesis/Tesis de Inversión. New Princes Group NWL.MI.md",
-    "Vita/💰 Finanzas/Tesis/Tesis.md",
-    "Vita/🚀 Desarrollo y Carrera/𖣂 Skill Tree/01_Hard_Engineering/Electrónica/SmartGarden/🌿 SmartGarden.md",
-    "Vita/🚀 Desarrollo y Carrera/𖣂 Skill Tree/01_Hard_Engineering/Electrónica/SmartGarden/01_Simulacion/Simulacion.md",
-    "Vita/🚀 Desarrollo y Carrera/𖣂 Skill Tree/01_Hard_Engineering/Electrónica/SmartGarden/02_Modelos/Modelos.md",
-    "Vita/🚀 Desarrollo y Carrera/𖣂 Skill Tree/01_Hard_Engineering/01_Hard_Engineering.md",
-    "Vita/🚀 Desarrollo y Carrera/𖣂 Skill Tree/00_Core_Management/Productividad y Hábitos/Productividad y Hábitos.md",
-    "Vita/🚀 Desarrollo y Carrera/𖣂 Skill Tree/00_Core_Management/🏆 Sistemas de Vida.md",
-    "Vita/💰 Finanzas/💰 Finanzas.md",
-    "Vita/💰 Finanzas/Registro de Gastos/Registro de Gastos.md",
-    "Vita/💰 Finanzas/Portafolios/Portafolios.md",
-    "Vita/💰 Finanzas/Portafolios/Portafolio Acciones/Portafolio Acciones.md",
-    "Vita/🚀 Desarrollo y Carrera/ITLA/2026-C1/Física Eléctrica/02_Tareas/Tarea 2 FIS-130.md",
-    "Vita/🚀 Desarrollo y Carrera/𖣂 Skill Tree/01_Hard_Engineering/Electrónica/SmartGarden/03_Diagramas/Diagrama sin título.drawio",
-    "Vita/🚀 Desarrollo y Carrera/ITLA/2026-C1/Circuitos Eléctricos I/03_Recursos/Análisis de circuitos en ingeniería.pdf",
-    "Vita/🚀 Desarrollo y Carrera/ITLA/2026-C1/Física Eléctrica/02_Tareas/Tareas FIS-130.md",
-    "Vita/🚀 Desarrollo y Carrera/ITLA/2026-C1/Física Eléctrica/02_Tareas/Tarea 1 FIS-130.md",
-    "Vita/🚀 Desarrollo y Carrera/ITLA/2026-C1/Cálculo Integral/03_Recursos/📚 Material de Estudio.md",
-    "Vita/🚀 Desarrollo y Carrera/ITLA/2026-C1/Cálculo Integral/02_Tareas/Practica 1 MAT-003.md",
-    "Vita/🚀 Desarrollo y Carrera/𖣂 Skill Tree/01_Hard_Engineering/Electrónica/SmartGarden/venv/lib/python3.13/site-packages/httpx-0.28.1.dist-info/licenses/LICENSE.md",
+    "Vita/🚀 Desarrollo y Carrera/𖣂 Skill Tree/01_Hard_Engineering/Electrónica/SmartGarden/venv/lib/python3.13/site-packages/idna-3.11.dist-info/licenses/LICENSE.md",
+    "Vita/🚀 Desarrollo y Carrera/𖣂 Skill Tree/01_Hard_Engineering/Electrónica/SmartGarden/venv/lib/python3.13/site-packages/pip/_vendor/idna/LICENSE.md",
+    "Vita/🚀 Desarrollo y Carrera/𖣂 Skill Tree/01_Hard_Engineering/Electrónica/SmartGarden/venv/lib/python3.13/site-packages/httpcore-1.0.9.dist-info/licenses/LICENSE.md",
+    "Vita/⚙️ ADMIN/🔄 Revisión Semanal.md",
     "Vita/⚙️ ADMIN/🚨 Protocolo de Emergencia.md",
-    "Vita/Vida Personal/Hábitos/Dias/2026-01-05.md",
+    "Vita/⚙️ ADMIN/🏆 Sistemas de Vida.md",
+    "Vita/🚀 Desarrollo y Carrera/🚀 Desarrollo y Carrera.md",
+    "Vita/🚀 Desarrollo y Carrera/𖣂 Skill Tree/01_Hard_Engineering/Electrónica/SmartGarden/venv/lib/python3.13/site-packages/httpx-0.28.1.dist-info/licenses/LICENSE.md",
+    "Vita/🚀 Desarrollo y Carrera/Metodo Cornell.md",
+    "Vita/Vida Personal/Hábitos/Plantillas/Plantilla Diaria.md",
+    "Vita/Vida Personal/Biblioteca/Libros/La psicología del dinero - Morgan Housel/La psicología del dinero - Morgan Housel.md",
+    "Vita/Vida Personal/Biblioteca/Libros/La psicología del dinero - Morgan Housel/📖 Cap 4 - La confusión del interés compuesto.md",
+    "Vita/Vida Personal/Biblioteca/Libros/La psicología del dinero - Morgan Housel/📖 Cap 1 -  Nadie está loco.md",
+    "Vita/Vita.md",
+    "Vita/Vida Personal/Vida Personal.md",
     "Vita/Vida Personal/00_HOME.canvas",
+    "Vita/Vida Personal/Biblioteca/Estantería/Como piensan los ricos by Morgan Housel.pdf",
+    "Vita/Vida Personal/Biblioteca/Libros/Libros.md",
+    "Vita/Vida Personal/Biblioteca/Libros/La psicología del dinero - Morgan Housel/📖 Cap 3 - No tener nunca suficiente.md",
+    "Vita/Vida Personal/Biblioteca/Libros/La psicología del dinero - Morgan Housel/📖 Cap 2 - Suerte y riesgo.md",
+    "Vita/Vida Personal/Biblioteca/Libros/La psicología del dinero - Morgan Housel",
+    "Vita/Vida Personal/Biblioteca/Biblioteca.md",
+    "Dias/2025-12-26.md",
+    "Dias/2026-01-12.md",
+    "Vita/💰Finanzas/Estado_Actual.md",
+    "portafolio.json",
+    "Vita/💰 Finanzas/Portafolios/Portafolio ETF/Ficha Técnica ETF/30-40-30 con HDV y SCHD.pdf",
+    "Vita/🚀 Desarrollo y Carrera/𖣂 Skill Tree/01_Hard_Engineering/Electrónica/SmartGarden/03_Firmware/include/model_data.h",
+    "Vita/🚀 Desarrollo y Carrera/𖣂 Skill Tree/01_Hard_Engineering/Electrónica/SmartGarden/Old/model_data.h",
+    "Vita/🚀 Desarrollo y Carrera/𖣂 Skill Tree/01_Hard_Engineering/Electrónica/SmartGarden/02_Modelos/model_data.h",
+    "Vita/🚀 Desarrollo y Carrera/𖣂 Skill Tree/01_Hard_Engineering/Electrónica/SmartGarden/02_Modelos/convertir.py",
+    "Vita/🚀 Desarrollo y Carrera/𖣂 Skill Tree/01_Hard_Engineering/Electrónica/SmartGarden/03_Firmware/data/Perfiles_Cultivo.json",
+    "Vita/🚀 Desarrollo y Carrera/𖣂 Skill Tree/01_Hard_Engineering/Electrónica/SmartGarden/03_Firmware/data",
     "Vita/Vida Personal/Hábitos/Dashboard Hábitos.canvas",
     "Pasted image 20260112235048.png",
     "Pasted image 20260112234546.png"

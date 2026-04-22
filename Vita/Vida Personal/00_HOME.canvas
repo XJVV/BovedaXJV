@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"53a2b57f138f6cfa","type":"file","file":"Vita/Vida Personal/Hábitos/Habit tracker.md","x":240,"y":-920,"width":520,"height":440},
-		{"id":"3d4dfed702db8ed3","type":"file","file":"Vita/🚀 Desarrollo y Carrera/𖣂 Skill Tree/03_Financial_Analytics/Valoración/Glosario de Ratios.md","x":300,"y":-400,"width":400,"height":320},
-		{"id":"c7f401cbcc0cf2b8","type":"file","file":"Vita/🚀 Desarrollo y Carrera/𖣂 Skill Tree/00_Core_Management/00_Core_Management.md","x":-760,"y":-921,"width":960,"height":921},
-		{"id":"b4b5d46a121c5154","x":-760,"y":-1080,"width":320,"height":159,"type":"text","text":"**[[🎓 ITLA Dashboard]]**.\n[[💰 Finanzas]]\n[[❤️ Salud]]\n[[🔄 Revisión Semanal]]"}
-	],
-	"edges":[]
-}

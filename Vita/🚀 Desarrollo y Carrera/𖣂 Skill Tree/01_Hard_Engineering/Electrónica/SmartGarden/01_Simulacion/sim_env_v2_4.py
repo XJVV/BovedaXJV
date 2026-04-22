@@ -160,11 +160,14 @@ class Greenhouse:
             self.state["modo_cpu"] = "ACTIVE"
 
         # 2. Física térmica
-        # temp_ext escala con el objetivo — evita que escenarios fríos tengan
-        # siempre presión térmica de 28°C y escenarios calientes no puedan enfriar
-        temp_ext_dia   = self.TARGET_TEMP + 4.0
-        temp_ext_noche = self.TARGET_TEMP - 4.0
-        temp_ext = temp_ext_dia if (9 < self.state["hora_dia"] < 16) else temp_ext_noche
+        # Temperatura exterior fija y realista — clima tropical/subtropical.
+        # Independiente del cultivo: el ambiente no cambia según lo que siembres.
+        # Esto genera presión térmica real en cultivos fríos (lechuga, fresa),
+        # forzando al ventilador a activarse y produciendo datos representativos
+        # de lo que el hardware va a vivir en la realidad.
+        TEMP_EXT_DIA   = 32.0   # pico diurno (clima tropical, verano)
+        TEMP_EXT_NOCHE = 22.0   # mínimo nocturno
+        temp_ext = TEMP_EXT_DIA if (9 < self.state["hora_dia"] < 16) else TEMP_EXT_NOCHE
         delta_temp = 0
         if accion["luz"]:        delta_temp += self.PHYSICS["calor_led_gain"] * dt
         if accion["ventilador"]: delta_temp -= self.PHYSICS["frio_fan_loss"] * dt

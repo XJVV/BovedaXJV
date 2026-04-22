@@ -15,12 +15,13 @@ Arquitectura Definitiva: El modelo ahora es **Agnóstico al Cultivo**. Aprende t
 - **Acción:** Ejecutar en Google Colab con el nuevo CSV.
 - **Validación:** El notebook corre una prueba final con cultivos "nunca vistos" (Orquídea, Cactus) para confirmar que la IA generalizó las reglas de la física correctamente.
 - **Salida:** Descargar como `brain_v4.tflite` (Convertir con `xxd` a `brain_v4_tflite[]`).
-
+[[🌿 SmartGarden]] 
 ## ⚙️ 4. Configuración del Entorno C++ (platformio.ini)
 - **Acción:** Añadir la librería de JSON a las dependencias.
 - **Código requerido:**
-  ```ini
+- ```ini
   lib_deps =
       tanakamasayuki/TensorFlowLite_ESP32 @ ^1.0.0
       beegee-tokyo/DHT sensor library for ESPx @ ^1.19
-      bblanchon/ArduinoJson @ ^6.21.3
+      bblanchon/ArduinoJson @ ^6.21.3 ```
+      

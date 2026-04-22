@@ -24,3 +24,4 @@ NoFap: false
 *¿Qué aprendí hoy? ¿Qué salió mal?*
 -
 
+[[Habit tracker]]

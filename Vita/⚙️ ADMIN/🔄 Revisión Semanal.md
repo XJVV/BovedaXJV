@@ -1,55 +1,49 @@
-# 🔄 Protocolo de Revisión Semanal
-
 > [!TIP] Objetivo
-> "Limpiar el desorden de la semana pasada y preparar el éxito de la próxima."
+> "Limpiar el desorden de la semana pasada, auditar el sistema y preparar el éxito de la próxima."
 > **Tiempo estimado:** 20 minutos.
 
-## 🧭 Calibración de Brújula (Lectura Obligatoria)
-*Antes de revisar tareas, relee estos 4 archivos para recordar quién eres y dónde estás.*
-
-### 1. 🧬 Identidad y Sistemas
-* **Archivo:** [[🏆 Sistemas de Vida]] 
-* **Objetivo:** ¿He actuado esta semana según los sistemas aquí definidos? (Ej. ¿Fui el inversor metódico o el impulsivo? ¿Fui el estudiante profundo o el superficial?)
-
-### 2. 🚦 Estado del Sistema
-* **Archivo:** [[🚨 Protocolo de Emergencia]]
-* **Pregunta Clave:** ¿Me siento quemado, enfermo o en crisis?
-    * [ ] **NO:** Sigue operando normal.
-    * [ ] **SÍ:** Activa el protocolo inmediatamente y cancela lo no esencial de la próxima semana.
-
-### 3. 🎯 Enfoque Táctico
-* **Archivo:** [[🚀 Desarrollo y Carrera]]
-* **Acción:** Mira la sección "Enfoque Actual". ¿Siguen siendo esas mis prioridades o me distraje con objetos brillantes?
-
-### 4. 💰 Realidad Financiera
-* **Archivo:** [[💰 Finanzas]]
-* **Acción:** Mira la tabla de "Actividad Reciente". ¿Los movimientos de dinero de esta semana reflejan mis objetivos a largo plazo?
+## 🧭 1. Calibración de Brújula (Lectura Obligatoria)
+*Antes de revisar tareas, relee estos 3 archivos para recordar quién eres y dónde estás.*
+* **[[🏆 Sistemas de Vida]]:** ¿Fui el inversor metódico o el impulsivo? ¿Fui el estudiante profundo o superficial?
+* **[[🚨 Protocolo de Emergencia]]:** ¿Me siento quemado o en crisis? (Si es SÍ, cancela lo no esencial de la próxima semana).
+* **[[🚀 Desarrollo y Carrera]]:** ¿Siguen siendo estas mis prioridades o me distraje con objetos brillantes?
 
 ---
 
-## 🧹 1. Limpieza Digital (Inbox Zero)
-- [ ] **Escritorio y Descargas:** Borrar archivos temporales y mover los importantes a `Vita/Biblioteca` o `Proyectos`.
-- [ ] **Email:** Responder lo urgente, archivar el resto.
-- [ ] **Obsidian:** Revisar notas sueltas en la raíz y moverlas a su carpeta correcta.
-
-## 💰 2. Finanzas (El "Cierre")
-*Entra en [[Registro de Gastos]] y tu App del banco.*
-- [ ] ¿Registré todos los gastos de la semana en mi App?
-- [ ] ¿Hay alguna factura pendiente de pagar?
-- [ ] (Solo a fin de mes) Actualizar la tabla de Patrimonio en [[💰 Finanzas]].
-
-## 🎓 3. Planificación Académica (ITLA)
-*Mira tu [[🎓 ITLA]].*
-- [ ] ¿Qué tareas vencen esta semana?
-- [ ] ¿Hay exámenes cerca?
-- [ ] Organizar los apuntes de la semana pasada en sus carpetas de materia.
-
-## 🎯 4. Enfoque de la Próxima Semana
-*Define tus 3 prioridades (Big Three).*
-1.  [Escribir aquí]
-2.  [Escribir aquí]
-3.  [Escribir aquí]
+## 🔍 2. Retrospectiva (Auditoría del Sistema)
+* **¿Qué funcionó? (Victorias):** *(Ej. Logré cumplir mis bloques de estudio profundo en la mañana).*
+* **¿Qué NO funcionó? (Cuellos de Botella):** *(Ej. Procrastiné organizar los documentos de la universidad).*
+* **¿Qué cambiaría para la próxima semana?:** *(Acción concreta para arreglar el fallo).*
 
 ---
+
+## 🧹 3. Limpieza Digital (Inbox Zero)
+- [ ] **Escritorio y Descargas:** Borrar temporales, mover importantes a `Vita/Biblioteca` o `Proyectos`.
+- [ ] **Obsidian:** Revisar notas sueltas en la raíz, convertirlas a formato Cornell/Flashcards si aplica, y moverlas a su carpeta.
+
+## 💰 4. Cierre Financiero
+*Entra en [[Registro de Gastos]], Koyfin/Happi y tu App del banco.*
+- [ ] ¿Registré los gastos de la semana?
+- [ ] ¿Respeté la regla de 48h y los análisis técnicos antes de cualquier movimiento en el portafolio?
+- [ ] (A fin de mes) Ejecutar la transferencia de inversión y actualizar el Patrimonio.
+
+## 🎓 5. Carrera y Proyectos (ITLA / PUCMM / Tech)
+- [x] ¿Qué tareas/entregas vencen esta semana en el ITLA?
+- [ ] **Traspaso PUCMM:** ¿Cuál es el próximo documento o trámite exacto para llegar a la meta del 12 de junio?
+- [ ] **Proyectos:** ¿Qué bloque de tiempo asignaré al desarrollo del SmartBot o programación de microcontroladores?
+
+## ❤️ 6. Salud y Rendimiento
+- [ ] ¿Cumplí mi rutina de hipertrofia de 6 días y mis prácticas de Judo?
+- [ ] ¿Mantuve mi base de hidratación (1.5L)?
+
+---
+
+## 🎯 7. Enfoque de la Próxima Semana (De Pareto al Calendario)
+*Abre tu Excel UVRI, actualiza los Valores y extrae tus "Big Three" (las 3 barras más altas de la izquierda).*
+1. [Prioridad Pareto 1] -> *Agendar bloque innegociable en el calendario.*
+2. [Prioridad Pareto 2] -> *Agendar bloque innegociable en el calendario.*
+3. [Prioridad Pareto 3] -> *Agendar bloque innegociable en el calendario.*
+
 **💡 Frase de la semana:**
-*(Escribe algo que te motive aquí)*
+*"Los ganadores y los perdedores tienen las mismas metas. La diferencia está en el sistema."*
+[[Vita]]

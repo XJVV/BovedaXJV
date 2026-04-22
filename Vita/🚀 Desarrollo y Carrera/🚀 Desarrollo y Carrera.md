@@ -8,16 +8,4 @@ Este es el centro de mando para mi crecimiento profesional, académico y laboral
 | **[[Trabajo]]**       | 💼 Empleos, Freelance y Proyectos.           | 🟢 Activo   |
 
 ---
-
-## 📅 Actividad Reciente (Global)
-*Los últimos 10 archivos que has tocado en cualquiera de estas áreas.*
-
-```dataview
-TABLE file.folder as "Área", file.mtime as "Modificado"
-FROM "Vita/🚀 Desarrollo y Carrera"
-WHERE file.name != this.file.name
-SORT file.mtime DESC
-LIMIT 10
-```
-
 [[Vita]]

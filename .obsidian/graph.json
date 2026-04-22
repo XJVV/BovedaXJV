@@ -22,13 +22,6 @@
       }
     },
     {
-      "query": "path:\"Vita/💰 Finanzas\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 4511276
-      }
-    },
-    {
       "query": "path:\"Vita/❤️ Salud\"  ",
       "color": {
         "a": 1,
@@ -48,6 +41,13 @@
         "a": 1,
         "rgb": 3391999
       }
+    },
+    {
+      "query": "path:Vita/💰Finanzas  ",
+      "color": {
+        "a": 1,
+        "rgb": 2883328
+      }
     }
   ],
   "collapse-display": false,
@@ -57,9 +57,9 @@
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
   "centerStrength": 0.45,
-  "repelStrength": 13,
+  "repelStrength": 15.166015625,
   "linkStrength": 1,
   "linkDistance": 100,
-  "scale": 0.06905205117676094,
+  "scale": 0.06631545491377644,
   "close": true
 }

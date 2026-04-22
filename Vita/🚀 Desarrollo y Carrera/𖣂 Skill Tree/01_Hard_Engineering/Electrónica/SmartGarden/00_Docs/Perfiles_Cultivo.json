@@ -3,23 +3,23 @@
     "cultivos": [
         {
             "id_cultivo": "Tomato",
-            "temperatura_ideal": 22.6,
+            "temperatura_ideal": 24.9,
             "humedad_suelo_ideal": 70.0,
-            "origen": "WikiFarmer + Texas A&M AgriLife + UF IFAS",
+            "origen": "Cornell Extension + Texas A&M AgriLife + WikiFarmer",
             "confianza": "alta"
         },
         {
             "id_cultivo": "Lettuce",
-            "temperatura_ideal": 22.1,
+            "temperatura_ideal": 20.0,
             "humedad_suelo_ideal": 60.0,
-            "origen": "WikiFarmer + Cornell Extension",
+            "origen": "UF IFAS + Texas A&M AgriLife + WikiFarmer",
             "confianza": "alta"
         },
         {
             "id_cultivo": "Habanero Pepper",
-            "temperatura_ideal": 24.4,
+            "temperatura_ideal": 24.5,
             "humedad_suelo_ideal": 60.0,
-            "origen": "WikiFarmer + Texas A&M AgriLife + Cornell Extension",
+            "origen": "Cornell Extension + Texas A&M AgriLife + Purdue Extension + WikiFarmer",
             "confianza": "alta"
         }
     ]
