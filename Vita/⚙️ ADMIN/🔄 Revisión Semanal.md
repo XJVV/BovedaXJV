@@ -1,49 +1,65 @@
 > [!TIP] Objetivo
-> "Limpiar el desorden de la semana pasada, auditar el sistema y preparar el éxito de la próxima."
+> "Auditar la ejecución de la semana pasada, actualizar el cerebro digital y programar las prioridades de la próxima."
 > **Tiempo estimado:** 20 minutos.
 
-## 🧭 1. Calibración de Brújula (Lectura Obligatoria)
-*Antes de revisar tareas, relee estos 3 archivos para recordar quién eres y dónde estás.*
+## 🧭 1. Calibración de Brújula
+*Lee esto antes de planear nada:*
 * **[[🏆 Sistemas de Vida]]:** ¿Fui el inversor metódico o el impulsivo? ¿Fui el estudiante profundo o superficial?
-* **[[🚨 Protocolo de Emergencia]]:** ¿Me siento quemado o en crisis? (Si es SÍ, cancela lo no esencial de la próxima semana).
-* **[[🚀 Desarrollo y Carrera]]:** ¿Siguen siendo estas mis prioridades o me distraje con objetos brillantes?
+* **[[🚨 Protocolo de Emergencia]]:** ¿Me siento quemado? (Si la fatiga acumulada es alta, cancela lo no esencial).
 
 ---
 
-## 🔍 2. Retrospectiva (Auditoría del Sistema)
-* **¿Qué funcionó? (Victorias):** *(Ej. Logré cumplir mis bloques de estudio profundo en la mañana).*
-* **¿Qué NO funcionó? (Cuellos de Botella):** *(Ej. Procrastiné organizar los documentos de la universidad).*
-* **¿Qué cambiaría para la próxima semana?:** *(Acción concreta para arreglar el fallo).*
+## 📊 2. Auditoría de Ejecución (Abre Excel)
+*Ve a la pestaña "Completadas" en tu Excel UVRI y filtra los últimos 7 días.*
+* **Victorias (Qué funcionó):** *(Copia aquí las tareas con mayor Valor Aportado que lograste terminar).*
+* **Cuellos de Botella (Qué falló):** *(¿Qué bloque de tiempo no respeté o qué tarea procastiné?)*
+* **Ajuste del Sistema:** *(Acción concreta para arreglar el fallo la próxima semana).*
 
 ---
 
-## 🧹 3. Limpieza Digital (Inbox Zero)
-- [ ] **Escritorio y Descargas:** Borrar temporales, mover importantes a `Vita/Biblioteca` o `Proyectos`.
-- [ ] **Obsidian:** Revisar notas sueltas en la raíz, convertirlas a formato Cornell/Flashcards si aplica, y moverlas a su carpeta.
-
-## 💰 4. Cierre Financiero
-*Entra en [[Registro de Gastos]], Koyfin/Happi y tu App del banco.*
-- [ ] ¿Registré los gastos de la semana?
-- [ ] ¿Respeté la regla de 48h y los análisis técnicos antes de cualquier movimiento en el portafolio?
-- [ ] (A fin de mes) Ejecutar la transferencia de inversión y actualizar el Patrimonio.
-
-## 🎓 5. Carrera y Proyectos (ITLA / PUCMM / Tech)
-- [x] ¿Qué tareas/entregas vencen esta semana en el ITLA?
-- [ ] **Traspaso PUCMM:** ¿Cuál es el próximo documento o trámite exacto para llegar a la meta del 12 de junio?
-- [ ] **Proyectos:** ¿Qué bloque de tiempo asignaré al desarrollo del SmartBot o programación de microcontroladores?
-
-## ❤️ 6. Salud y Rendimiento
-- [ ] ¿Cumplí mi rutina de hipertrofia de 6 días y mis prácticas de Judo?
-- [ ] ¿Mantuve mi base de hidratación (1.5L)?
+## 🧹 3. Mantenimiento del Sistema (Inbox Zero)
+- [ ] **Escritorio y Descargas:** Borrar temporales, organizar PDFs y manuales técnicos.
+- [ ] **Obsidian:** Revisar notas sueltas, aplicar Markdown/Mermaid si es necesario, y archivar.
 
 ---
 
-## 🎯 7. Enfoque de la Próxima Semana (De Pareto al Calendario)
-*Abre tu Excel UVRI, actualiza los Valores y extrae tus "Big Three" (las 3 barras más altas de la izquierda).*
+## 💰 4. Auditoría Financiera
+- [ ] Registro completo de gastos en la app.
+- [ ] ¿Respeté la regla de 48h antes de hacer movimientos en el portafolio (STLA, PAGS, DGRO)?
+- [ ] (A fin de mes): Actualizar balance total y registrar contribuciones mensuales.
+
+---
+
+## 🎓 5. Carrera y Proyectos
+- [ ] **Traspaso PUCMM (Deadline: 12 Junio):** Revisar Gantt. ¿Qué documento oficial falta por buscar o legalizar esta semana?
+- [ ] **Ingeniería:** ¿Qué bloque de Deep Work asignaré a los proyectos de electrónica/ESP32?
+
+---
+
+## 🏋️ 6. Salud y Rendimiento
+*Abre [[Log_Hipertrofia]]*
+- [ ] ¿Cumplí mis 6 días de rutina en la Marcy?
+- [ ] ¿El volumen de la semana me acerca a la meta de 145 lbs sin quemar el sistema nervioso?
+- [ ] Revisión de asimetría: ¿Sentí buena contracción en el lado derecho del cuerpo?
+- [ ] Base de hidratación (1.5L) mantenida.
+
+---
+
+## 🤖 7. Sincronización de IA (Cerebro Digital)
+> *Objetivo: Alimentar a NotebookLM con la data de esta semana.*
+
+- [ ] 1. Abrir terminal en Pop!_OS (`cd /ruta/a/tu/boveda`).
+- [ ] 2. Ejecutar script de consolidación:
+    ```bash
+    find . -type f -name "*.md" -exec cat {} + > cerebro_digital.txt
+    ```
+- [ ] 3. Subir el nuevo `cerebro_digital.txt` a NotebookLM.
+
+---
+
+## 🎯 8. Enfoque de la Próxima Semana (De Pareto al Calendario)
+*Abre tu Excel UVRI (Pestaña 80/20), actualiza la tabla y extrae tu Top 3 innegociable.*
 1. [Prioridad Pareto 1] -> *Agendar bloque innegociable en el calendario.*
 2. [Prioridad Pareto 2] -> *Agendar bloque innegociable en el calendario.*
 3. [Prioridad Pareto 3] -> *Agendar bloque innegociable en el calendario.*
-
-**💡 Frase de la semana:**
-*"Los ganadores y los perdedores tienen las mismas metas. La diferencia está en el sistema."*
 [[Vita]]
